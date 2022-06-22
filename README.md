@@ -5,7 +5,7 @@
 _pronounced "**scr**een **c**o**py**"_
 
 [Read in another language](#translations)
-
+## 使用 USB 鏈接Android 設備即可 投屏的 工具 Scrcpy
 This application provides display and control of Android devices connected via
 USB or [over TCP/IP](#tcpip-wireless). It does not require any _root_ access.
 It works on _GNU/Linux_, _Windows_ and _macOS_.
